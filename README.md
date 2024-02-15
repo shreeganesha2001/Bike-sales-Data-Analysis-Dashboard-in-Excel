@@ -1,5 +1,13 @@
 # Bike Sales Data Analysis Dashboard
 
+### Prerequisites
+
+- Microsoft Excel
+
+### Installation
+
+1. Download the excel file and use Dashboard Sheet.
+
 ## Overview
 
 This project is a Bike Sales Data Analysis Dashboard implemented in Excel. The dashboard provides insights and visualizations for bike sales data, allowing users to make data-driven decisions related to sales and inventory management.
@@ -17,10 +25,6 @@ This project is a Bike Sales Data Analysis Dashboard implemented in Excel. The d
 
 
 
-### Prerequisites
 
-- Microsoft Excel
 
-### Installation
 
-1. Download the excel file and use Dashboard Sheet.
